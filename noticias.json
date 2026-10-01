@@ -1,0 +1,16 @@
+[
+  {
+    "id": 2,
+    "titulo": "Bienvenidos a las noticias",
+    "fecha": "2026-09-30",
+    "texto": "Aquí verán todos los anuncios de Nietsafio Survival.",
+    "imagen": ""
+  },
+  {
+    "id": 1,
+    "titulo": "Launcher listo",
+    "fecha": "2026-09-30",
+    "texto": "Ya pueden descargar el launcher y entrar al servidor.",
+    "imagen": ""
+  }
+]
