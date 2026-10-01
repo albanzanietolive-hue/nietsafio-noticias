@@ -1,16 +1,30 @@
 [
   {
-    "id": 2,
-    "titulo": "Bienvenidos a las noticias",
+    "id": 4,
+    "titulo": "👋 ¡Bienvenidos a NIETSAFIO SURVIVAL!",
     "fecha": "2026-09-30",
-    "texto": "Aquí verán todos los anuncios de Nietsafio Survival.",
+    "texto": "Hola, bienvenidos a NIETSAFIO SURVIVAL, un servidor de Minecraft pensado para jugar con tus amigos sin aburrirte nunca. 🎮\n\nAquí la supervivencia de siempre se mezcla con una idea distinta: unas deidades desconocidas, los dioses, observan este mundo y deciden nuestro destino con eventos aleatorios, juicios, misiones y recompensas. Nunca sabes qué pasará hoy: puede llegar un premio increíble o un castigo que no verás venir. ⚡\n\nTengo que decirlo: a este proyecto le he invertido muchísimo tiempo, noches sin dormir, esfuerzo y dinero, para que podamos jugar de una forma divertida y con dinámicas diferentes. Es un orgullo para mí poder compartirlo por fin con ustedes. ❤️ Espero que lo disfruten tanto como yo disfruté creándolo.\n\nSi tienes cualquier duda, mira la sección Ayuda del launcher o escríbenos en nuestro Discord. ¡Muchas gracias por estar aquí! 🌟",
     "imagen": ""
   },
   {
-    "id": 1,
-    "titulo": "Launcher listo",
+    "id": 3,
+    "titulo": "📜 Actualización: ¡llegan las misiones!",
     "fecha": "2026-09-30",
-    "texto": "Ya pueden descargar el launcher y entrar al servidor.",
+    "texto": "Los dioses tienen nuevos encargos para ti. Con esta actualización se implementa el sistema de misiones en NIETSAFIO SURVIVAL: retos que los dioses ponen en tu camino para ponerte a prueba. 🗡️\n\n¿Qué cambia?\n• Ahora tendrás desafíos que cumplir durante tu aventura.\n• Cumplir una misión te da recompensas: mientras más difícil sea el reto, mejor será el premio. 🎁\n• Cada misión es una oportunidad de demostrar de qué estás hecho... y también de arriesgarte.\n\nEstate atento a los mensajes del servidor y juega en equipo con tus amigos. ¡Buena suerte, aventurero! 🍀",
+    "imagen": ""
+  },
+  {
+    "id": 2,
+    "titulo": "🔥 El lore: los dioses y Prometeus",
+    "fecha": "2026-09-30",
+    "texto": "Mucho antes de que pisaras este mundo, ellos ya estaban aquí. Los dioses son deidades desconocidas: nadie conoce su rostro, sus nombres ni sus razones. Lo único seguro es que nos crearon en este mundo... y que ahora nos juzgan. 👁️\n\nNo bajan a hablar con nosotros. Los dioses nos observan desde lejos y hacen oír su voluntad a través de su mensajero: Prometeus. ⚡ Él trae sus decretos, sus juicios, sus premios y sus castigos. Cuando Prometeus habla, hay que escuchar.\n\n¿Qué aventuras y qué juicios nos darán nuestros dioses? ¿Seremos dignos de su favor... o de su ira? Solo hay una forma de descubrirlo: jugar y sobrevivir. 🌌",
+    "imagen": "https://raw.githubusercontent.com/albanzanietolive-hue/nietsafio-noticias/main/prometeus.png"
+  },
+  {
+    "id": 1,
+    "titulo": "🎲 Eventos aleatorios: la suerte de los dioses",
+    "fecha": "2026-09-30",
+    "texto": "En NIETSAFIO SURVIVAL nada está escrito. Los dioses juegan con el azar, y por eso cada día puede traer algo distinto. 🎲\n\n🎯 ¿Cómo funcionan?\nA veces los dioses lanzan los dados: una moneda (50 % de probabilidad), un dado de 6 caras o uno de 10. Según lo que salga, recibes un premio o una consecuencia. Otras veces el evento depende de lo que tú hagas: cumplir una condición, reunir ciertos objetos o... portarte mal. Hay eventos pequeños, otros más serios y algunos únicos, que solo ocurren una vez y quedan registrados para siempre.\n\n⚖️ Los dioses también juzgan tus actos. Maltratar a aldeanos o a algunos animales y criaturas puede hacer que Prometeus anuncie un juicio contra ti. No es lo mismo golpear que matar: lo segundo es mucho más grave.\n\n🛡️ Cómo sobrevivir:\n• Lee con atención cada anuncio de Prometeus: algunos juicios tienen tiempo límite.\n• Trata bien a los aldeanos y a los animales.\n• Ve siempre preparado: comida, herramientas y materiales.\n• Juega en equipo: los amigos salvan vidas.\n\n🎁 El sistema de recompensas:\nLos dioses son justos a su manera: mientras más difícil sea el desafío, mejor será el premio. Podrás conseguir objetos exclusivos, con combinaciones de encantamientos que normalmente no se pueden tener. 💎 Los eventos más raros guardan las recompensas más especiales.\n\n¿Te atreves a tentar a la suerte? 🍀",
     "imagen": ""
   }
 ]
