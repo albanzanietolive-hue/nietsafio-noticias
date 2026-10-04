@@ -28,3 +28,17 @@
     "imagen": ""
   }
 ]
+  {
+    "id": 6,
+    "titulo": "🔥 El Ritual del Sacrificio",
+    "fecha": "2026-10-03",
+    "texto": "El Caído ha envenenado las aguas y su veneno no os dejará llegar a los templos del mar. Pero los dioses ofrecen un camino: un sacrificio. 🔱\n\n🫀 Ofrendas: 1 Corazón de las Profundidades (el corazón del Warden), 5 conejos cocinados y la vida de uno de los vuestros.\n\n⛩️ Altar: un cuadrado de 3x3 de bloques de oro con lava en el centro. Arrojad los objetos a la lava y que el sacrificado se lance a las llamas.\n\n💃 Baile: con las ofrendas completas, agachaos y levantaos junto al altar durante 2 minutos, bajo música épica.\n\n⚡ Recompensa: caerán rayos y fuegos artificiales, y solo quienes bailaron junto al altar recibirán una hora para cruzar las aguas sin sufrir su veneno.",
+    "imagen": ""
+  },
+  {
+    "id": 5,
+    "titulo": "⚡ Los dioses endurecen el juego",
+    "fecha": "2026-10-03",
+    "texto": "Mortales, el Caído se aburre. Estos cambios ya están activos:\n\n😴 Dormir importa: 3 noches seguidas sin dormir = -15 de XP.\n\n📜 Minimisiones: si entras y no cumples ni una en el día, pierdes 10 de XP.\n\n🔱 Tótems especiales: para craftear los de More Totems debes completar las misiones del fin de semana y mínimo 2 minimisiones del día. Usa /trigger totems para ver qué te falta.\n\n🐟 Los salmones son del Caído. Quien mate o coma uno será castigado.\n\n☠️ Eventos únicos y permanentes: cuando se activan, son para siempre.\n• El Caído quiere divertirse: cada flecha de esqueleto te quitará 5 de XP, además del daño.\n• El Caído envenena el agua: más de 3 segundos en el agua te quita XP, y tras 5 minutos seguidos el veneno te consume la vida.\n\nNo sabréis cuándo ocurrirán. Los dioses os observan. 👁️",
+    "imagen": ""
+  },
